@@ -17,7 +17,7 @@ Welcome to the Yummy Pizza Sales Analysis repository. Here, you'll find all the 
   - [https://github.com/Mohit209e/Yummy-Pizza-Sales/blob/main/Icons_used](#)
 
 - `power_bi_dashboard.pbix` - The actual Power BI dashboard file with all the visualizations.
-  - [https://app.powerbi.com/view?r=eyJrIjoiYzlmNjk3YzctYzFlNS00ZjliLTk5MWEtNzFmOTRmYmY2NDQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](#)
+  - https://app.powerbi.com/view?r=eyJrIjoiYzlmNjk3YzctYzFlNS00ZjliLTk5MWEtNzFmOTRmYmY2NDQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### SQL Queries
 - `pizza_sales_queries.sql` - Advanced SQL queries for data extraction and analysis.

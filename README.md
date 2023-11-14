@@ -6,26 +6,22 @@ Welcome to the Yummy Pizza Sales Analysis repository. Here, you'll find all the 
 ## Repository Contents
 
 ### Pizza Sales Data
-- `pizza_sales_excel.xlsx` - The Excel workbook containing the compiled sales data.
-  - [Add your link here](#)
+- `yummy_pizza_sales.xlsx` - The Excel workbook containing the compiled sales data.
+  - [https://github.com/Mohit209e/Yummy-Pizza-Sales/blob/main/pizza_sales_excel_file.xlsx](#)
 
-- `pizza_sales_sql.sql` - The SQL script with data validation and cleaning processes.
-  - [Add your link here](#)
-
-### Video Presentation
-- `video_description.txt` - Textual description outlining the key insights from the video presentation.
-  - [Add your link here](#)
+- `yummy_pizza_sales.sql` - The SQL script with data validation and cleaning processes.
+  - [https://github.com/Mohit209e/Yummy-Pizza-Sales/blob/main/Yummy%20pizza%20sales.sql](#)
 
 ### Dashboard Assets
 - `icons_used.zip` - A zip file with icons used in the Power BI dashboard.
-  - [Add your link here](#)
+  - [https://github.com/Mohit209e/Yummy-Pizza-Sales/blob/main/Icons_used](#)
 
 - `power_bi_dashboard.pbix` - The actual Power BI dashboard file with all the visualizations.
-  - [Add your link here](#)
+  - [https://app.powerbi.com/view?r=eyJrIjoiYzlmNjk3YzctYzFlNS00ZjliLTk5MWEtNzFmOTRmYmY2NDQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](#)
 
 ### SQL Queries
 - `pizza_sales_queries.sql` - Advanced SQL queries for data extraction and analysis.
-  - [Add your link here](#)
+  - [https://github.com/Mohit209e/Yummy-Pizza-Sales/blob/main/Yummy%20pizza%20sales.sql](#)
 
 ## How to Use
 
